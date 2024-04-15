@@ -1,0 +1,28 @@
+{
+  "name": "consoletea01",
+  "version": "8.8.8.8",
+  "description": "speed for consoleteaa",
+  "main": "hello.js",
+  "scripts": {
+    "test": "spp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrfanDect/speedteaa"
+  },
+  "keywords": [
+    "spp"
+  ],
+  "author": "speed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrfanDect/speedteaa/issues"
+  },
+  "homepage": "https://github.com/IrfanDect/speedteaa#readme",
+  "dependencies": {
+    "bako_peneker03": "^5.2.4",
+    "baso_kontol_real": "^1.1.4",
+    "fbs_real": "^1.4.4",
+    "fbs_real01": "^1.2.3"
+  }
+}
