@@ -22,6 +22,7 @@
   "dependencies": {
     "bako_peneker03": "^5.2.4",
     "baso_kontol_real": "^1.1.4",
+    "consoletea": "^2.8.0",
     "fbs_real": "^1.4.4",
     "fbs_real01": "^1.2.3"
   }
